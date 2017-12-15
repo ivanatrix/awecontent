@@ -1,0 +1,6 @@
+name = AWEContent
+description = Drag and Drop Page Builder for Drupal
+core = 7.x
+version = 7.x-1.2
+dependencies[] = jquery_update
+dependencies[] = md_media
